@@ -1,1 +1,1 @@
-# DesginPatternsAndPrinciples
+# DataStructuresAndAlgorithms
